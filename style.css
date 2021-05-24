@@ -1,0 +1,13 @@
+.success, .error, .warning{
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+.success{
+    background: rgb(27, 255, 27);
+}
+.error{
+    background: red;
+}
+.warning{
+    background: rgb(252, 26, 75);
+}
